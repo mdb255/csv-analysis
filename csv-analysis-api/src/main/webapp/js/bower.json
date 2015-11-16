@@ -1,0 +1,16 @@
+{
+  "name": "csv-analysis",
+  "description": "An example of using angular-nvd3 to render CSV data",
+  "version": "0.0.1",
+  "homepage": "",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.4.x",
+    "d3": "3.5.8",
+    "nvd3": "1.8.1",
+    "angular-nvd3": "1.0.1",
+    "html5-boilerplate": "~4.3.0",
+    "lodash": "3.10.1"
+  }
+}

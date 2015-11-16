@@ -1,0 +1,11 @@
+# Eclipe
+.project
+.classpath
+.settings/
+
+# Output dirs
+target/
+build/
+
+# Libraries
+bower_components/
