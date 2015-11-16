@@ -103,6 +103,7 @@
 						</goals>
 						<phase>package</phase>
 						<configuration>
+							<serverXml>src/main/resources/embedded-tomcat/server.xml</serverXml>
 						</configuration>
 					</execution>
 				</executions>
